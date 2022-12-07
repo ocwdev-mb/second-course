@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/second-course/deadlock2.png
+file: /courses/2222-second-course-fall-2027/deadlock2.png
 file_type: image/png
 image_metadata:
   caption: ''
