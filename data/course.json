@@ -1,0 +1,31 @@
+{
+  "term": "Fall",
+  "year": "2027",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "second-course"
+  },
+  "course_image": {
+    "content": "",
+    "website": "second-course"
+  },
+  "course_title": "Second Course",
+  "course_description": "asdasldjaskd",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2222",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "second-course"
+  },
+  "learning_resource_types": [],
+  "site_uid": "13c55e79-fe0e-4f1b-b435-1c5109d398fc",
+  "site_short_id": "second-course"
+}
